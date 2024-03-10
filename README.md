@@ -1,4 +1,4 @@
-![logo](https://github.com/devsajibghosh/devsajibghosh/blob/main/Github%20banner.png)
+![logo](https://github.com/devsajibghosh/devsajibghosh/blob/main/Sajib%20ghosh.png)
 <h1 align="center">Hello 👋, I'm Sajib Ghosh</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
