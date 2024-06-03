@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Sajib Ghosh</h1>
 <h3 align="center">I am a Web Developer from Bangladesh.</h3>
 
-<img aling="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw07UVPhtXx_r-pFYahf5Zw3&ust=1717487801515000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCKjgyJv8voYDFQAAAAAdAAAAABCEAQ" alt="coding" width="250" height="250">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsajibghosh&label=Profile%20views&color=0e75b6&style=flat" alt="devsajibghosh" /> </p>
 
@@ -10,7 +10,7 @@
 - 👨‍💻 My Portfolio [https://hello-sajib.netlify.app/](https://hello-sajib.netlify.app/)
 
 - 💬 Ask me about **JS,PHP,Laravel,React.**
-
+-🌋 How to reach me: <b>kumarsajibghosh@gmail.com</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/sajibghosh.sonkor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajibghosh.sonkor" height="30" width="40" /></a>
