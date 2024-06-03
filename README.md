@@ -10,6 +10,7 @@
 - 👨‍💻 My Portfolio [https://hello-sajib.netlify.app/](https://hello-sajib.netlify.app/)
 
 - 💬 Ask me about **JS,PHP,Laravel,React.**
+  <br>
 -🌋 How to reach me: <b>kumarsajibghosh@gmail.com</b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
